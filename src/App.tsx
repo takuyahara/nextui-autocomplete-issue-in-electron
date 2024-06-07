@@ -1,5 +1,5 @@
 import React from "react";
-import {Autocomplete, AutocompleteItem} from "@nextui-org/react";
+import {Autocomplete, AutocompleteItem} from "@nextui-org/autocomplete";
 
 
 export default function App() {
